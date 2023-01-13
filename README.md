@@ -2,7 +2,7 @@
 # Introduction
 This is an archive of the robot simulation submission made for ARTPARK Robotics challenge by Team RoboJyothianz in 2021. 
 
-## Team members:
+**Team members:**
 - Devadath PR 
 - Navaneeth Nalesh CT
 - Jerin Peter
