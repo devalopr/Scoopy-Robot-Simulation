@@ -1,5 +1,12 @@
 
-# Archive of the robot simulation submission made for ARTPARK Robotics challenge by Team RoboJyothianz in 2021. 
+# Introduction
+This is an archive of the robot simulation submission made for ARTPARK Robotics challenge by Team RoboJyothianz in 2021. 
+
+##Team members:
+- Devadath PR 
+- Navaneeth Nalesh CT
+- Jerin Peter
+- Lentin Joseph (Team mentor)
 
 **README Contents:**  
 
